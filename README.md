@@ -6,7 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/tuzixini">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuzixini&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuzixini&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuzixini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuzixini&layout=compact&langs_count=8&theme=merko&count_private=true"/>
 </a>
 </p>
 
